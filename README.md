@@ -1,5 +1,5 @@
 # Problems_On_Digits -> problems based on set of Digits within a numbers .
-    Types of Problems_On_Digits : Count_number of Digits , Count_Even number of Digits , Count_Even , Count_Odd & so on...
+    Types of Problems_On_Digits : Count_number of Digits , Find_Specific Digit in a Number , Count_Even , Count_Odd & so on...
 
 This Repository contains programs in C language .
 
